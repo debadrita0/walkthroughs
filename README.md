@@ -1,4 +1,4 @@
-# workthroughs
+#walkthrough
 
-done DIY for 3rd module, using accounts.
-done the WT from 4th-7th module.  
+all walkthroughs in MuleSoft training portal
+Anypoint Platform, Anypoint Studio and Postman API is used.
